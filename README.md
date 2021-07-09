@@ -1,2 +1,2 @@
 # ABC
-Bang Developer
+Bang 
